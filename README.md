@@ -1,6 +1,6 @@
 # Object detection using Tensorflow
 ## Background
-Before we begin I thing it would be best to explain my reasoning for trying out Object detection using Tensorflow.
+Before we begin I think it would be best to explain my reasoning for trying out Object detection using Tensorflow.
 
 It all started on November in the year 2018, when I came across AI and wanted to make my own project using some sort of API. Back then I did't know what AI even ment or what it was. All I knew was that it sounded cool. 
 
