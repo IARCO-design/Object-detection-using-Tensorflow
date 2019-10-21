@@ -13,28 +13,34 @@ My first experience with neural networks was with a [neural network simulator wi
 A few months have passed since then and that's where this project comes into play. I hope you enjoy it.
 ## Setup
 ### Install python
+```
 sudo apt install python python-dev python3.6 python3.6-dev python-tk protobuf-compiler
 sudo apt install python-pip python3-pip 
-
+```
 ### Upgrade setuptools
+```
 pip3 install --upgrade setuptools
-
+```
 ### Install the dependencies
+```
 pip3 install tensorflow==1.5
 pip3 install opencv-python
 pip3 install keras
 pip3 install imageAI
 pip3 install matplotlib
 pip3 install utils
-
+```
 ### Prepare the enviroment
+```
 mkdir Tensorflow
 cd Tensorflow
 git clone https://github.com/tensorflow/models
 cd models/research/
 protoc object_detection/protos/*.proto --python_out=.
 export PYTHONPATH=$PYTHONPATH:pwd:pwd/slim
-wget 
+wget https://raw.githubusercontent.com/BeanGreen247/Object-detection-using-Tensorflow/master/objectdetection.py
+```
 ### Run the program from the research directory
+```
 python3.6 objectdetection.py
-
+```
