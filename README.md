@@ -44,3 +44,4 @@ wget https://raw.githubusercontent.com/BeanGreen247/Object-detection-using-Tenso
 ```
 python3.6 objectdetection.py
 ```
+Let me know what you think.
