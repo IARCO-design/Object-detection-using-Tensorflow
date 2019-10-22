@@ -6,11 +6,15 @@ It all started on November in the year 2018, when I came across AI and wanted to
 
 So I started off my new years resoliton with making a project that would use Tensorflow. I was so ready and exited, but it did't last long. As I started learning about neural networks and AI in general I soon realized that I wasn't good enough.
 
-From that point on I started learning about all the math and logic needed to create neural networks to better understand how they work. I would like to say that it was easy, but it wasn't. I wen through a lot of sleepless night for weeks and moths. And after some time it all suddenly clicked.
+From that point on I started learning about all the math and logic needed to create neural networks to better understand how they work. I would like to say that it was easy, but it wasn't. I went through a lot of sleepless nights for weeks and moths. And after some time it all suddenly clicked.
 
 My first experience with neural networks was with a [neural network simulator wirtten in C#](https://github.com/BeanGreen247/neural-network-simulator). That took a few months to make. After that I continued my studies on AI.
 
 A few months have passed since then and that's where this project comes into play. I hope you enjoy it.
+
+## Studying sources
+The Books, Studying Sheets and Videos I used can be found [here](https://mega.nz/#F!GkdiEIiC!8dd7AboObDBlKPACiVz54A).
+
 ## Setup
 ### Install python
 ```
