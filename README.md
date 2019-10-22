@@ -38,6 +38,7 @@ git clone https://github.com/tensorflow/models
 cd models/research/
 protoc object_detection/protos/*.proto --python_out=.
 export PYTHONPATH=$PYTHONPATH:pwd:pwd/slim
+wget http://download.tensorflow.org/models/object_detection/ssd_mobilenet_v1_coco_11_06_2017.tar.gz
 wget https://raw.githubusercontent.com/BeanGreen247/Object-detection-using-Tensorflow/master/objectdetection.py
 ```
 ### Run the program from the research directory
